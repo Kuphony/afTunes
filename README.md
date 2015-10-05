@@ -10,3 +10,8 @@ afTunes is an applescript-based application. During idling the application, it d
 3.Press control key to stop/resume playing the file.(Unfortunately, the reproduction goes on while stopping)
 
 4.Quit the app to kill the afplay process.
+
+## System Requirement
+* OS X 10.9+
+
+* iTunes 12+
